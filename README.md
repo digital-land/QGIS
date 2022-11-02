@@ -7,3 +7,5 @@ QGIS Projects, resources and templates used for reviewing and interacting with P
 project
 project/directory
 ````
+
+Set Project -> Properties... -> General -> Save Path = "Relative", this enables easier sharing as data files can be stored in the same file structure as their parent project map files. 
