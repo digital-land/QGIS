@@ -4,8 +4,8 @@ QGIS Projects, resources and templates used for reviewing and interacting with P
 ## Directory Structure 
 
 ```
-project
-project/directory
+project - holds map files with links to data 
+project/data - holds static data files used in the maps
 ````
 
 Set Project -> Properties... -> General -> Save Path = "Relative", this enables easier sharing as data files can be stored in the same file structure as their parent project map files. 
