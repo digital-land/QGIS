@@ -10,3 +10,5 @@ template - holds template files for use in creating new projects
 ````
 
 Set Project -> Properties... -> General -> Save Path = "Relative", this enables easier sharing as data files can be stored in the same file structure as their parent project map files. 
+
+Project Templates typically need to be copied into your user profile project_templates directory.  Use the menu option Settings -> User Profile -> Open Active Profile Folder to find this.
