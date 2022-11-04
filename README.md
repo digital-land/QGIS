@@ -1,6 +1,10 @@
 # QGIS
 QGIS Projects, resources and templates used for reviewing and interacting with Planning Data collections and data sets.
 
+Download QGIS from https://www.qgis.org/en/site/forusers/download.html
+
+These projects and resources were built using QGIS 3.24.3.
+
 ## Directory Structure 
 
 ```
